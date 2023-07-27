@@ -13,3 +13,5 @@ Contains Abstract Summary Of Each Notebook Code
 6. poem-classification: Classifies Excerpts Using NLP And Tranformer Architecture
 
 7. intent-based-chatbot: Chatbot Predicting Tags From Intents Json Using Simple Feed Forward Dense Model
+
+8. Google Contrails: Image Segmentation Using ResNet With Attention Layers To Detect Contrails. For More Details, Visit: https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/overview
